@@ -7,7 +7,6 @@ Lorelai is an intelligent, friendly, and witty Chat GPT-powered Slack assistant 
 
 - ✅ AI-driven conversations within Slack
 - ✅ Context-aware replies leveraging conversation history
-- ✅ Expert guidance for event management, video production, and digital media
 - ✅ Deployed using **Heroku** with streamlined CI/CD through Git
 - ✅ Secure and efficient Slack API interactions using **Slack Bolt**
 
