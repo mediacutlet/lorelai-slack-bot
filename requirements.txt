@@ -1,0 +1,6 @@
+flask
+slack-bolt
+slack-sdk
+python-dotenv
+openai
+gunicorn
