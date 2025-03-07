@@ -1,3 +1,5 @@
-slack_bolt
-openai
+flask
+slack-bolt
+slack-sdk
 python-dotenv
+openai
