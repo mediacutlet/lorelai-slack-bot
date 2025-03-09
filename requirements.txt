@@ -4,3 +4,4 @@ slack-sdk
 python-dotenv
 openai
 gunicorn
+requests
